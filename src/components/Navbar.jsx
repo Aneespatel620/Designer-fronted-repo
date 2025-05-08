@@ -1,7 +1,7 @@
 
 import { Link, useLocation } from "react-router-dom"; // Import useLocation
 import "./Navbar.css"; // Optional for styling
-import tie from '../images/tieremove.png';
+import tie from '../images/Tieremove.png';
 import { useAuth } from "../store/store_auth.jsx";
 const Navbar = () => {
   const location = useLocation(); // Get current path
