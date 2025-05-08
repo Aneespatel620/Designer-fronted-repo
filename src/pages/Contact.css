@@ -1,0 +1,48 @@
+.main_contact{
+    width: 190vh;
+    height: 100vh;
+    align-content: center;
+    
+    background-image: url('../images/9.jpg');
+    background-attachment: fixed;
+    color: aliceblue;
+}
+.main_contact h1{
+    margin-left: 150px;
+}
+.card_contact{
+    height: 300px;
+    width: 500px;
+    font-size: medium;
+    font-weight: 500;
+    border-radius: 18px;
+    border: 3px solid rgb(5, 182, 11);  
+    padding-top: 20px;
+    margin-left: 360px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+input , textarea{
+    border-color: 2px solid green;
+}
+
+#in{
+    height: 35px;
+    width: 400px;
+    border-radius: 40px;
+    text-indent: 10px;
+    
+}
+#btn{
+    background-color: brown;
+    color: aliceblue;
+    margin-right: 8px;
+}
+#tex{
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+    text-indent: 10px;
+    align-items: center;
+}
+

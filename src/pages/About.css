@@ -1,0 +1,32 @@
+.sub_about{
+    display: flex;
+    column-gap:250px;
+}
+#ab_h2{
+    color: rgb(37, 37, 114);
+}
+#ab_b{
+    color: coral;
+}
+.absec2{
+    color: rgb(113, 58, 148);
+    border: 4px solid black;
+    border-radius: 20px;
+    background-color: rgb(143, 202, 182);
+    font-size: larger;
+}
+.absec2:hover{
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px rgba(104, 96, 96, 0.616);
+    background-color: rgb(231, 190, 130);
+}
+#absec1 img {
+    margin-left: 70px;
+    height: 250px;
+    width: 240px;
+    
+}
+#sub_ab3 img{
+    height: 500px;
+    width: 1050px;
+}

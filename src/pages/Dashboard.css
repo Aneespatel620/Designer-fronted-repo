@@ -1,0 +1,17 @@
+ body{
+    align-items: center;
+ }
+button{
+    margin: 4px;
+}
+
+table{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid green;
+    padding: 15px;
+}

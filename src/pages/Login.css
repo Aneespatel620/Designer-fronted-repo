@@ -1,0 +1,46 @@
+
+.container_login{
+    background-image: url('../images/79.jpg');
+    display: flex;
+  
+}
+.main_login{
+    height: 340px;
+    width: 400px;
+    /* background-color: rgb(37, 233, 233); */
+    /* border: 3px solid rgb(129, 5, 182);   */
+    border: 2px solid rgb(143, 143, 143);
+    color: rgb(248, 244, 244);
+    padding-top: 20px;
+    border-radius: 30px;
+    margin-top: 30px;
+    
+}
+.main_login input{
+ width: 300px;
+ height: 40px;
+ border-radius: 30px;
+ text-indent: 10px;
+ margin-left: 5px;
+
+}
+.main_login{
+    margin-left: 30px;
+}
+.main_login h1{
+    color: rgb(15, 87, 221);
+    text-align: center;
+  
+    
+}
+.container_login div{
+    text-align: center;
+}
+.box{
+    padding-top: 10px;
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.main_login :hover{
+    transform: scale(1.02);
+}
